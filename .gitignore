@@ -1,0 +1,6 @@
+# Contains the development signing private key
+.certs/
+
+.build/
+build/
+.DS_Store
